@@ -7,6 +7,4 @@ It is written in AHK. I provided the 64 bit executable, but for security reasons
 For that you'll need to install [AutoHotkey](https://autohotkey.com).
 
 
-
-
 In passing, take a look at my personal website : [https://natsec.fr](https://natsec.fr)
