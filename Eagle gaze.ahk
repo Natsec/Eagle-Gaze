@@ -3,7 +3,7 @@
 
 sec := 1000
 min := 60 * sec
-target := 10 * min
+target := 20 * min
 afk_trigger := min
 
 Loop{
