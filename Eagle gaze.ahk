@@ -4,7 +4,7 @@
 sec := 1000
 min := 60 * sec
 target := 20 * min
-afk_trigger := min
+afk_trigger := 2 * min
 
 Loop{
 	start := A_TickCount
