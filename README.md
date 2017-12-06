@@ -4,7 +4,7 @@ Every 20 minutes, it will remind you to look 20 meters away for 20 seconds.
 
 ## Features
 - It is rather light when running (~2 Mb RAM usage), and will just wake every 10 seconds to make its operations
-- It will pause when you are away from keyboard for more than 1 minute
+- It will pause when you are away from keyboard for more than 2 minutes
 - Only one pop up when its time to relax, then 2 auditive signals to mark the 20 seconds of pause
 
 ## How to use
